@@ -2,7 +2,7 @@
 - 👀 I’m interested in economics, politics, web design.
 - 🌱 I’m currently learning Vue.js and advanced JavaScript.
 - 💞️ I’m looking to collaborate on front end projects
-- 📫 How to reach me louistodd@gmail.com
+- 📫 How to reach me louisrtodd@gmail.com
 
 <!---
 louis-todd/louis-todd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
